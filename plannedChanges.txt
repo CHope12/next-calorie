@@ -1,0 +1,29 @@
+Dashboard
+	chart update
+	Get average for monthly chart
+	Get average for weekly chart
+
+Meal Planner
+	save recipe
+	edit recipe
+
+
+Measurements
+
+Recipes	
+	
+Fitness
+
+
+Settings
+	Name
+	Phone number
+	Email
+	user
+	bio?
+	photo
+
+
+CSS
+
+6 left
